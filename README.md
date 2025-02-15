@@ -21,7 +21,7 @@
 
 ## Live Demo 🌐
 
-Check out the live demo: [ChromaFlow Live]()
+Check out the live demo: [ChromaFlow Live](https://chroma-flow.vercel.app/)
 
 ## Installation 🚀
 
